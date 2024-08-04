@@ -16,7 +16,7 @@ Repositorio del módulo de Programación de 1º de DAM.
     <a href="https://github.com/Olmedo30/Programacion-04-2023-2024">Clase String</a>
   </li>
   <li>
-    <a href="">Utilización de objetos</a>
+    <a href="https://github.com/Olmedo30/Programacion-05-2023-2024">Utilización de objetos</a>
   </li>
   <li>
     <a href="">Desarrollo de clases</a>
