@@ -19,7 +19,7 @@ Repositorio del módulo de Programación de 1º de DAM del IES Ribera del tajo.
     <a href="https://github.com/Olmedo30/Programacion-05-2023-2024">Utilización de objetos</a>
   </li>
   <li>
-    <a href="">Desarrollo de clases</a>
+    <a href="https://github.com/Olmedo30/Programacion-06-2023-2024">Desarrollo de clases</a>
   </li>
   <li>
     <a href="">Interfaces gráficas</a>
